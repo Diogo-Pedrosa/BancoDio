@@ -1,0 +1,52 @@
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.deps.json
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.dll
+/home/eliezer/sandbox/dio/DIO.Bank/bin/Debug/netcoreapp3.1/DIO.Bank.pdb
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.dll
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.pdb
+/home/eliezer/sandbox/dio/DIO.Bank/obj/Debug/netcoreapp3.1/DIO.Bank.genruntimeconfig.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\dioga\Desktop\paulobird\dio-dotnet-poo-lab-1 - Copia\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\dioga\Desktop\paulobird\Banco do Braga\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
